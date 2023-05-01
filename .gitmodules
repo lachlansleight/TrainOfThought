@@ -1,0 +1,6 @@
+[submodule "trainofthought-frontend"]
+	path = trainofthought-frontend
+	url = C:\\Users\\Lachlan\\Development\\Lachlan\\TrainOfThought\\trainofthought-frontend
+[submodule "trainofthought-server"]
+	path = trainofthought-server
+	url = C:\\Users\\Lachlan\\Development\\Lachlan\\TrainOfThought\\trainofthought-server
